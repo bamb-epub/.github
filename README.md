@@ -1,7 +1,7 @@
 # Bamb
 
 <p align="center">
-  <img src="https://github.com/jerbjs/.github/blob/main/public/logo.png" width="120" alt="Bamb Logo" />
+  <img src="https://github.com/bamb-epub/.github/blob/main/public/logo.png" width="120" alt="Bamb Logo" />
 </p>
 
 <p align="center">Seamless Integration, Simplified Development: Bamb's Efficiency Unleashed.</p>
